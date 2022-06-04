@@ -92,8 +92,6 @@ a {
 }
 
 /* Logo */
-.header-logo {}
-
 .header-logo-link {
   display: block;
   font-size: 1.9rem;
@@ -186,7 +184,6 @@ a {
 
 .stats-item-inner {
   float: left;
-  /* width: 50%; */
   color: var(--title-color);
 }
 
